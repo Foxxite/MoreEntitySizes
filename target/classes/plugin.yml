@@ -1,0 +1,4 @@
+name: MoreEntitySizes
+version: '1.0-SNAPSHOT'
+main: com.foxxite.moreEntitySizes.MoreEntitySizes
+api-version: '1.21'
